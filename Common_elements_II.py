@@ -7,4 +7,4 @@ for i in l1:
         print(i,end=" ")
 for i in l2:
     if i not in l1:
-        print(i,end=" ") 
+        print(i,end=" ")
