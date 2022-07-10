@@ -10,4 +10,4 @@ for i in b:
         if j in d:
             s=s+1
     m.append(s)
-print(min(m))    
+print(min(m))  
