@@ -7,3 +7,4 @@ for i in range(n):
     else:
         s=s+a[i]
 print(s)   
+
