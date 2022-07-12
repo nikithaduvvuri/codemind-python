@@ -5,4 +5,4 @@ d=list(k)
 s=0
 for i in d:
     s=s+i
-print(s)
+print(s)    
