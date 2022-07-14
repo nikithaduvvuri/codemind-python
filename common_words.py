@@ -8,4 +8,4 @@ k=[]
 for i in s4:
     if i in s3:
         k.append(i)
-print(*k)        
+print(*k)
