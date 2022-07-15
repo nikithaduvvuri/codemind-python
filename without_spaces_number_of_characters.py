@@ -3,4 +3,4 @@ c=0
 for i in n:
     if ord(i)==32:
         c=c+1
-print(len(n)-c)    
+print(len(n)-c)
