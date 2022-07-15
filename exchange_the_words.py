@@ -4,4 +4,4 @@ c=[]
 d=[]
 for i in range(len(b)):
     c.append(b[i])
-print(*(c[::-1]))    
+print(*(c[::-1]))
