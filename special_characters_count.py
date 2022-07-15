@@ -7,4 +7,4 @@ for i in s:
         c1=c1+1
     else:
         c2=c2+1
-print(c2)  
+print(c2)
