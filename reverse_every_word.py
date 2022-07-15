@@ -7,4 +7,4 @@ for i in range(len(b)):
 for j in range(len(c)):
     m=c[j][::-1]
     d.append(m)
-print(*d)    
+print(*d)
