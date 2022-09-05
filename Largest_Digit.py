@@ -5,4 +5,4 @@ while num>0:
     if max<digit:
         max=digit
     num=num//10
-print(max)        
+print(max)    
