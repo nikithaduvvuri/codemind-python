@@ -1,15 +1,14 @@
-a=str(input())
-b=a.lower()
-c=list(b)
-d=[]
-f=[]
-e='abcdefghijklmnopqrstuvwxyz'
-for i in c:
-    if i!=' ':
-        if i not in d:
-            d.append(i)
-for i in e:
-    if i in d:
-        f.append(i)
-g=''.join(f)
-print(g)
+s=input()
+s=s.lower()
+s=list(s)
+a=[]
+for i in s:
+    if s.count(i)==1:
+        a.append(i)
+a.sort()
+st='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'
+for i in a:
+    if i==' ':
+        continue
+    st+=i
+print(st)    
